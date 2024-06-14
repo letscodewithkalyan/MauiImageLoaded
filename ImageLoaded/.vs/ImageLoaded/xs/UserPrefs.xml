@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C95424FB-5A70-4B48-8CBC-B2A3D028425A}|Default">
+  <MonoDevelop.Ide.ItemProperties.ImageLoaded PreferredExecutionTarget="Android.samsunga02s_-_api_30" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.samsunga02s_-_api_30" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImageLoaded/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ImageLoaded/MainPage.xaml.cs" Line="7" Column="19" />
+      <File FileName="ImageLoaded/MainPage.xaml" Line="16" Column="40" />
+      <File FileName="ImageLoaded/ImageLoaded.csproj" Line="23" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ImageLoaded" expanded="True">
+            <Node name="ImageLoaded" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
